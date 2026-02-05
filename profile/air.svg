@@ -36,10 +36,10 @@
      id="defs1">
     <style>
       @media (prefers-color-scheme: light) {
-        .theme-adaptive { fill: #000000; }
+        .theme-adaptive { fill: #303030; }
       }
       @media (prefers-color-scheme: dark) {
-        .theme-adaptive { fill: #ffffff; }
+        .theme-adaptive { fill: #efefef; }
       }
     </style>
     <pattern
